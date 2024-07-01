@@ -1,6 +1,6 @@
 package com.example.yunusproje
 
-import com.example.quizapp.Question
+import com.example.yunusproje.Question
 
 object Constants {
     val USER_NAME: String = "user_name"
